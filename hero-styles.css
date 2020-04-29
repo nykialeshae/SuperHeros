@@ -1,0 +1,17 @@
+body {
+  font-family: Comic Sans MS;
+  color: #0B0930;
+}
+h1{
+  font-family: Avengeance Heroic Avenger;
+  color :#0B0930;
+} 
+h2, h3 {
+  font-family: Avengeance Heroic Avenger;
+  color: #0B0930;
+}
+article {
+    margin: 20px;
+    padding: 20px;
+    background-color: #7B6FDE;
+}
